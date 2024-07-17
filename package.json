@@ -1,7 +1,7 @@
 {
   "name": "BattlyLauncher",
   "productname": "Battly Launcher",
-  "version": "1.8.5",
+  "version": "1.0.0",
   "description": "El mejor Launcher Personalizado para Minecraft Premium y No premium",
   "main": "src/app.js",
   "author": "TECNO BROS <contacto@tecnobros.es>",
@@ -49,7 +49,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/1ly4s0/battlylauncher.git"
+    "url": "https://github.com/EnderLauncher/EnderLauncher.git"
   },
   "private": true
 }
